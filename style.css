@@ -70,6 +70,16 @@ main {
   margin: 0 0 1rem;
 }
 
+.currently p#currently-text {
+  font-style: italic;
+}
+
+.currently-updated {
+  margin-top: 0.5rem !important;
+  font-size: 0.8rem !important;
+  color: var(--text-dim) !important;
+}
+
 .section p {
   color: var(--text);
   margin: 0;
