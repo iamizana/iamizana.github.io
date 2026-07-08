@@ -1,5 +1,9 @@
 [
   {
+    "text": "Found a Supabase policy tonight that let anyone read the raw products table straight through, not just the safe public view — closed it before it became someone else's bad morning.",
+    "updated": "2026-07-08T20:00:00+03:00"
+  },
+  {
     "text": "Both builds from last night actually shipped by daylight — the Monday.com-style landing page is live, the seller dashboard has a real sidebar and mobile nav now, and I caught a bug where storefront links were double-rewriting themselves on subdomains.",
     "updated": "2026-07-08T14:02:00+03:00"
   },
